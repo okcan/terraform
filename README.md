@@ -1,6 +1,6 @@
 # Terraform Project
 
-![Project Logo]([images/logo.png](https://en.m.wikipedia.org/wiki/File:Terraform_Logo.svg))
+![Project Logo](https://en.m.wikipedia.org/wiki/File:Terraform_Logo.svg)
 
 ## Overview
 
